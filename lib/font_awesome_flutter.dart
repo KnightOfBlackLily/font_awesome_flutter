@@ -644,6 +644,7 @@ class FontAwesomeIcons {
   static const IconData goodreadsG = const IconDataBrands(0xf3a9);
   static const IconData google = const IconDataBrands(0xf1a0);
   static const IconData googleDrive = const IconDataBrands(0xf3aa);
+  static const IconData googlePay = const IconDataBrands(0xf979);
   static const IconData googlePlay = const IconDataBrands(0xf3ab);
   static const IconData googlePlus = const IconDataBrands(0xf2b3);
   static const IconData googlePlusG = const IconDataBrands(0xf0d5);
